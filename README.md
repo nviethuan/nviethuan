@@ -4,9 +4,4 @@
   <a href="https://github-met.vercel.app/api/streaks?username=nviethuan">
     <img src="https://github-met.vercel.app/api/streaks?username=nviethuan" alt="GitHub Streak" />
   </a>
-  <br/>
-  <a href="https://github-met.vercel.app/api/languages?username=nviethuan">
-    <img src="https://github-met.vercel.app/api/languages?username=nviethuan" alt="GitHub programming languages" />
-  </a>
-  <br/>
 </div>
